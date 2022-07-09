@@ -1,3 +1,6 @@
+###
+<img src="https://github.com/Oheneba-Dade/Oheneba-Dade/blob/main/readme%20image.jpg" alt="Banner Image">
+
 ### Hello World 👋
 * 👂 My name is Oheneba Dade
 * 👩 Pronouns: he/him

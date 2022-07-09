@@ -4,8 +4,8 @@
 
 
 ### Hello World 👋
-* 👂 My name is Oheneba Dade
-* 👩 Pronouns: he/him
+* 👂🏽 My name is Oheneba Dade
+* 👨🏽 Pronouns: he/him
 * 🎓 Computer Science Major (Currently Sophomore) at Ashesi University, Ghana
 * 🌱 I’m currently learning React.js
 * 🕹️ Loves sports video games and supports Chelsea Football Club. 

@@ -22,6 +22,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40px" height="40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40px" height="40px"/>
 </div>
+
+###
+[![Oheneba Dade's Github Stats](https://github-readme-stats.vercel.app/api?username=Oheneba-Dade)](https://github.com/anuraghazra/github-readme-stats)
                 
           
           

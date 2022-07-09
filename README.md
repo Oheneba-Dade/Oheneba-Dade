@@ -27,10 +27,8 @@
 </div>
 
 ###
-<div style="display: flex; flex-direction: row;">
-  [![Oheneba Dade's Github Stats](https://github-readme-stats.vercel.app/api?username=Oheneba-Dade&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Oheneba Dade's Github Stats](https://github-readme-stats.vercel.app/api?username=Oheneba-Dade&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oheneba-Dade&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Oheneba-Dade&theme=algolia)](https://git.io/streak-stats)
 
                 

@@ -7,7 +7,7 @@
 * 👩 Pronouns: he/him
 * 🌱 I’m currently learning React.js
 * 📫 How to reach me: <br>
-<a href="https://www.twitter.com/ohkwade"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="50px" height="50px"/> </a>
+<a href="https://www.twitter.com/ohkwade"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30px" height="30px"/> </a>
           
           
           

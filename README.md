@@ -9,6 +9,7 @@
 * 🎓 Computer Science Major (Currently Sophomore) at Ashesi University, Ghana
 * 🌱 I’m currently learning React.js
 * 📫 Reach out to me on: <br>
+* 🕹️ Loves sports video games and supports Chelsea Football Club. 
 <div>
 <a href="https://www.linkedin.com/in/oheneba-dade"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" height="40px"/></a>
 <a href="https://www.twitter.com/ohkwade"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40px" height="40px"/> </a>

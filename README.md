@@ -6,8 +6,10 @@
 * 👂 My name is Oheneba Dade
 * 👩 Pronouns: he/him
 * 🌱 I’m currently learning React.js
-* 📫 How to reach me: <br>
+* 📫 Reach out to me on: <br>
+<a href="https://www.linkedin.com/in/oheneba-dade> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width = "20px" height = "20px" /></a>
 <a href="https://www.twitter.com/ohkwade"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="20px" height="20px"/> </a>
+
           
           
           

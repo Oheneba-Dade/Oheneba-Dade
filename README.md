@@ -7,8 +7,8 @@
 * 👩 Pronouns: he/him
 * 🌱 I’m currently learning React.js
 * 📫 Reach out to me on: <br>
-<a href="https://www.linkedin.com/in/oheneba-dade"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width = "20px" height = "20px" /> </a>
-<a href="https://www.twitter.com/ohkwade"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="20px" height="20px"/> </a>
+<a href="https://www.linkedin.com/in/oheneba-dade"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width = "30px" height = "30px" /> </a>
+<a href="https://www.twitter.com/ohkwade"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30px" height="30px"/> </a>
 
           
           

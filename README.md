@@ -6,6 +6,7 @@
 ### Hello World 👋
 * 👂 My name is Oheneba Dade
 * 👩 Pronouns: he/him
+* 🎓 Computer Science Major (Currently Sophomore) at Ashesi University, Ghana
 * 🌱 I’m currently learning React.js
 * 📫 Reach out to me on: <br>
 <div>

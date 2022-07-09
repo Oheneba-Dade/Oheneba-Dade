@@ -1,14 +1,14 @@
 ###
 <img src="https://github.com/Oheneba-Dade/Oheneba-Dade/blob/main/readme%20image.jpg" alt="Banner Image">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+
 
 ### Hello World 👋
 * 👂 My name is Oheneba Dade
 * 👩 Pronouns: he/him
 * 🌱 I’m currently learning React.js
 * 📫 Reach out to me on: <br>
-<a href="https://www.linkedin.com/in/oheneba-dade"> <i class="fa-solid fa-envelope" width="30px" height="30px"></i> </a>
+<a href="https://www.linkedin.com/in/oheneba-dade"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30px" height="30px"/></a>
 <a href="https://www.twitter.com/ohkwade"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30px" height="30px"/> </a>
 
           

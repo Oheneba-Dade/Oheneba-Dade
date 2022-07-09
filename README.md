@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello World 👋
+* 👂 My name is Oheneba Dade
+* 👩 Pronouns: he/him
+* 🌱 I’m currently learning React.js
+* 📫 How to reach me: ohenebadade@gmail.com
 
 <!--
 **Oheneba-Dade/Oheneba-Dade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

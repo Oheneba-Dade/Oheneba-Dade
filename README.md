@@ -6,7 +6,7 @@
 * 👨🏽 Pronouns: he/him
 * 🎓 Computer Science Major (Currently Sophomore) at Ashesi University, Ghana
 * 🌱 I’m currently learning React.js
-* 🕹️ Love sports video games and supports Chelsea Football Club. 
+* 🕹️ Love sports video games and supports Chelsea Football Club and whatever team Steph Curry plays on.
 
 ## Contact Me ☎️
 <a href="https://www.linkedin.com/in/oheneba-dade"><img src="https://skillicons.dev/icons?i=linkedin"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

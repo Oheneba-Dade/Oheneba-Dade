@@ -3,7 +3,6 @@
 
 ## Hello World 👋
 * 👂🏽 My name is Oheneba Dade
-* 👨🏽 Pronouns: he/him
 * 🎓 Computer Science Major (Currently Sophomore) at Ashesi University, Ghana
 * 🌱 I’m currently learning React.js
 * 🕹️ Love sports video games and supports Chelsea Football Club and whatever team Steph Curry plays on.

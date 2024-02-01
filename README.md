@@ -5,7 +5,7 @@
 * 👂🏽 My name is Oheneba Dade
 * 🎓 Computer Science Major (Currently Senior) at Ashesi University, Ghana
 * 🌱 I’m currently learning React.js
-* 🕹️ Love sports video games and supports Chelsea Football Club and whatever team Steph Curry plays on.
+* 🕹️ Love sports video games and supports whatever team Steph Curry plays on.
 
 
 # Contact Me ☎️

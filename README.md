@@ -3,7 +3,7 @@
 
 # Hello World 👋
 * 👂🏽 My name is Oheneba Dade
-* 🎓 Computer Science Major (Currently Senior) at Ashesi University, Ghana
+* 🎓 Faculty Intern at Ashesi University, Ghana
 * 🌱 I’m currently learning React.js
 * 🕹️ Love sports video games and supports whatever team Steph Curry plays on.
 
